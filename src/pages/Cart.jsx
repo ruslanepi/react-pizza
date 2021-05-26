@@ -342,7 +342,7 @@ function Cart() {
                 </svg>
               </div>
             </div>
-            <div className="cart__item-price">
+            <div className="cart__item-price 123">
               <b>770 ₽</b>
             </div>
             <div className="cart__item-remove">
